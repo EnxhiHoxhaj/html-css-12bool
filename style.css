@@ -6,9 +6,17 @@
     min-height: 50px;
     background-color: #006cfa;
     border: solid 2px white;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header .col-12 {
+    display: block;
     background-color: white;
     min-height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
 }
