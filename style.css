@@ -1,6 +1,4 @@
 /* CSS di progetto*/
-
-/*verde = #00e165 */
 /*DEBUG*/
 [class*="col-"] {
     min-height: 50px;
@@ -19,4 +17,15 @@ header .col-12 {
     font-size: 25px;
     font-weight: bold;
     color: black;
+}
+
+.row .nested {
+    min-height: 80px;
+    padding: 0 10px 0;
+}
+
+.nested > div {
+    background-color: lime;
+    border:solid #006cfa;
+    font-weight: bold;
 }
