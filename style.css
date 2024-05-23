@@ -1,0 +1,14 @@
+/* CSS di progetto*/
+
+/*verde = #00e165 */
+/*DEBUG*/
+[class*="col-"] {
+    min-height: 50px;
+    background-color: #006cfa;
+    border: solid 2px white;
+}
+
+header .col-12 {
+    background-color: white;
+    min-height: 30px;
+}
