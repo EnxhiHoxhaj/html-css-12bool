@@ -10,7 +10,7 @@
     align-items: center;
 }
 
-header .col-12 {
+.titolo {
     display: block;
     background-color: white;
     min-height: 30px;
